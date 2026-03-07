@@ -14,7 +14,7 @@ public class Geocontroller : MonoBehaviour
         string chat3 = "hello";
         Debug.Log(chat + chat3 + chat4);
     }
-
+    
     // Update is called once per frame
     void Update()
     {
