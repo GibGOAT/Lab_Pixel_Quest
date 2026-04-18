@@ -29,7 +29,13 @@ public class uptick : MonoBehaviour
             case "Finish":
                 SceneManager.LoadScene(nextLevel);
                 break;
+            case "Coin":
+                break;
+
+        
+
         }
+       
     }
 
     void Update()
